@@ -45,4 +45,25 @@ Pulsar is an Online Music System, where users can chat with friends, create and 
  - Like a song and add it to Favorites
  - Follow artists and add to Favorites
 
+# Screenshots:
+
+![Screenshot from 2022-11-12 15-07-44](https://user-images.githubusercontent.com/83278309/206240619-778a3d46-7a89-469c-be1c-f826171e4c8f.png)
+
+![Screenshot from 2022-11-12 15-07-58](https://user-images.githubusercontent.com/83278309/206240859-ea4c60f7-cdd3-457c-8ae5-c7b177ce58f6.png)
+
+![Screenshot from 2022-11-12 15-19-48](https://user-images.githubusercontent.com/83278309/206240887-5e93204e-a807-4d44-97ce-4856237e9879.png)
+
+![Screenshot from 2022-11-12 15-15-19](https://user-images.githubusercontent.com/83278309/206240965-1c590872-576f-4b4d-8934-77de57608bf6.png)
+
+![Screenshot from 2022-11-12 15-15-30](https://user-images.githubusercontent.com/83278309/206240996-82accb93-3a58-4aec-8616-8dff5ff0c7bc.png)
+
+![Screenshot from 2022-11-12 15-16-25](https://user-images.githubusercontent.com/83278309/206241078-d64029d7-c863-40bf-b163-eb3f1471639c.png)
+
+![Screenshot from 2022-11-12 15-16-53](https://user-images.githubusercontent.com/83278309/206241126-02582f80-ff7f-4124-9cb7-ae7b1f9395cb.png)
+
+![Screenshot from 2022-11-12 15-17-12](https://user-images.githubusercontent.com/83278309/206241179-838fd1e8-768e-47b7-971e-1b72f2755672.png)
+
+![Screenshot from 2022-11-12 15-17-49](https://user-images.githubusercontent.com/83278309/206241238-e7602524-fc45-4331-b922-a0e617c8080b.png)
+
+
  
