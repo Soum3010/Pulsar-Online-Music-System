@@ -6,11 +6,12 @@ Pulsar is an Online Music System, where users can chat with friends, create and 
 
 ## Frontend:
  - React
- - SCSS
+ - SASS
  - Javascript
  
 ## Backend:
  - Flask
+ - Python
 
 ## Database:
  - MySQL
@@ -28,7 +29,7 @@ Pulsar is an Online Music System, where users can chat with friends, create and 
 ## Chat with Friends:
  - Users can chat with their friends
 
-## Chat in Artist fan Groups:
+## Chat in Artist Fan Groups:
  - Create artist fan groups with fans of favorite artists
  - Chat with other fans in artist fan groups
 
