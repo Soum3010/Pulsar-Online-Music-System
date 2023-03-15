@@ -15,6 +15,8 @@ Pulsar is an Online Music System, where users can chat with friends, create and 
 
 ## Database:
  - MySQL
+## Hosted:
+- NA
 
 # Functionalities of the Music System:
 
